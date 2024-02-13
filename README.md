@@ -79,3 +79,9 @@ flutter pub run flutter_launcher_icons
 
 ## Sign the app
 [Sign the app](https://docs.flutter.dev/deployment/android)
+
+
+## App Build
+```
+flutter build appbundle --build-name=2.4.2 --build-number=10
+```
